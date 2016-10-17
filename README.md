@@ -9,6 +9,7 @@
   - `apt-get` wrapper.
   - Seeding by just grabbing and pinning the cache.
   - First check IPFS then/if slow degrade to http.
+  - Showcase reduced http traffic when using docker containers
 - [ ] **inotify-ipfs**  
 - [ ] **ipfs-ify**  
   Browser plugin that just adds every ressource into IPFS and tries to speed up receiving them by using IPFS too.
